@@ -1,7 +1,18 @@
-# svp-test-2025
-* TIG326 Övningar *
+# TIG326 Övningar 
 Repositoryt innehåller filer och exempel som används under git-workshopen i TIG326.
 
-** Att göra**
-1. klona det här repositoryt
-2. lägg till en föreläsningstitel i filen lectures.md (skapa branch, editera filen, comit, push, pull request)
+## Att göra 1
+* klona det här repositoryt
+* skapa en issue per föreläsning i kursen
+* skapa en branch för den föreläsningstitel du vill lägga till
+* lägg till en föreläsningstitel i filen lectures.md 
+* commit, push, pull request (använd commit -m för att stänga issuen)
+
+
+## Att göra 2
+* Skapa ett eget repo
+* initiera
+* checka ut
+* skapa en fil readme.md
+* commit, push
+* låt en kompis klona repot, branch, göra ändringa, och skicka ändringarna till din repo
