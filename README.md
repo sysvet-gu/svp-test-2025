@@ -16,3 +16,9 @@ Repositoryt innehåller filer och exempel som används under git-workshopen i TI
 * skapa en fil readme.md
 * commit, push
 * låt en kompis klona repot, branch, göra ändringa, och skicka ändringarna till din repo
+
+## Att göra 3
+* klona repot
+* vad finns det för branches i repot?
+* gör en ändring i en annan branch än main
+* pull request
