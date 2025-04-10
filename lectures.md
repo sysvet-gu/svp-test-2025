@@ -5,4 +5,3 @@
 4. Group project
 5. Arthur 2
 
-6. Arthur 1
