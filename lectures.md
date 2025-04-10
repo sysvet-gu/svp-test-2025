@@ -2,3 +2,6 @@
 1. Course introduction
 1. ?
 1. ??
+version
+workshop
+seminarium
