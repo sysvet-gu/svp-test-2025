@@ -7,3 +7,4 @@
 6. Föreläsning, "Interkollegialt samkväm"
 6. Förläsning 4
 6. Arthur 1
+10. Föreläsning Arthur 4
