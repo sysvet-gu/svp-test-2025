@@ -1,6 +1,8 @@
 # Lista med föreläsningar i kursen 
 1. Course introduction
-1. Föreläsngar 1: intro
-1. ??
+2. Data-driven business development
+3. Design thinking
+4. Group project
 5. Arthur 2
 6. Förläsning 4
+6. Arthur 1
