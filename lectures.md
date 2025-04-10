@@ -1,2 +1,2 @@
 # Lista med föreläsningar i kursen 
-* Course introduction
+1. Course introduction
