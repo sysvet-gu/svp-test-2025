@@ -3,3 +3,4 @@
 1. Data-driven business development
 1. Design thinking, Group project
 5. Arthur 2
+6. Version control
