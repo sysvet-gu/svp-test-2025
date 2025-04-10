@@ -1,4 +1,5 @@
 # Lista med föreläsningar i kursen 
 1. Course introduction
 1. Data-driven business development
-1. Deisgn thinking, Group project
+1. Design thinking, Group project
+5. Arthur 2
