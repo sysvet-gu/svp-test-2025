@@ -5,3 +5,6 @@
 4. Group project
 5. Arthur 2
 6. Arthur 3
+7. Föreläsning, "Interkollegialt samkväm"
+8. Förläsning 4
+9. Arthur 1
